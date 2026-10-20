@@ -1,154 +1,43 @@
-# Eden Asipov — Technical Writer Portfolio
+<div align="center">
 
-Welcome to my technical writing portfolio. I specialize in creating clear, accurate, and user-focused documentation for complex engineering, aerospace, satellite communications, manufacturing, and AI-driven systems.
+<img src="https://edenasipov.github.io/assets/eden.jpg" alt="Eden Asipov" width="140" style="border-radius:50%">
 
-I have worked across highly technical environments including satellite communications, spacecraft production, hardware testing, AI platforms, and enterprise software systems — translating complex technical concepts into practical, structured documentation that supports engineers, technicians, operators, and end users.
+# Eden Asipov
 
----
+**Aerospace innovator & physics researcher** · Seattle / Bellevue, WA
 
-## About Me
+[![Website](https://img.shields.io/badge/Website-edenasipov.github.io-7dd3fc?style=for-the-badge&labelColor=05060d)](https://edenasipov.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-eden--asipov-a78bfa?style=for-the-badge&logo=linkedin&labelColor=05060d)](https://linkedin.com/in/eden-asipov)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--0531--383X-a6ce39?style=for-the-badge&logo=orcid&labelColor=05060d)](https://orcid.org/0009-0000-0531-383X)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.23443165-f0abfc?style=for-the-badge&labelColor=05060d)](https://doi.org/10.5281/zenodo.23443165)
 
-I am a Senior Technical Writer based in the Seattle / Bellevue, Washington area with experience supporting:
-
-- Satellite communications systems
-- Aerospace and spacecraft production
-- Production and manufacturing operations
-- Hardware/software integration environments
-- AI and enterprise software platforms
-- Troubleshooting and service workflows
-- Installation and maintenance procedures
-
-My background includes work associated with:
-
-- Amazon Project Kuiper
-- Virgin Galactic
-- SpaceX
-- BizDriver.ai
-
-I enjoy working closely with engineering, production, QA, and operations teams to create documentation that improves usability, reduces ambiguity, and supports real-world workflows.
+</div>
 
 ---
 
-## Areas of Expertise
+### 🚀 About
+I joined **SpaceX at 17** and started at **Amazon Leo** (formerly Project Kuiper) on my 18th birthday. I then worked as a contract technical writer at **Virgin Galactic**, and I'm now a full-time **Maintenance Analyst at Boeing**. I research **physics, propulsion and communication methods**. I'm also a student at **Bellevue College**.
 
-### Technical Documentation
-- User Guides
-- API Documentation
-- Installation Manuals
-- Service Procedures
-- Troubleshooting Guides
-- Maintenance Task Cards
-- Production Acceptance Test Procedures
-- Standard Operating Procedures (SOPs)
-- Knowledge Base Content
+### 🛰️ Trajectory
+| | Organization | Role |
+|---|---|---|
+| **Now** | Boeing | Maintenance Analyst (full-time) |
+| Apr 2025 – | Virgin Galactic | Contract Technical Writer |
+| Oct 2023 – Apr 2025 | Amazon Leo | Satellite Technician II |
+| Nov 2022 – Mar 2025 | BizDriver.ai | Technical Writer |
+| Age 17 | SpaceX | |
 
-### Engineering & Technical Environments
-- Satellite Communications
-- Aerospace Systems
-- Production & Manufacturing
-- Hardware Testing
-- Telemetry & Logs
-- Environmental Testing
-- System Integration
-- FRU / Assembly Documentation
+### 🔭 Research
+- 📄 **Emergent Matter, Fermionic Spin, and Induced Rank-2 Gravity from Topological Wave Solitons in a Polarizable Vacuum Medium** — preprint, 2026 · [doi:10.5281/zenodo.23443165](https://doi.org/10.5281/zenodo.23443165)
+- Interests: physics · propulsion · communication methods
 
-### Tools & Platforms
-- MadCap Flare
-- Confluence
-- Jira
-- SharePoint
-- Git / GitHub
-- Markdown
-- HTML/CSS
-- XML
-- REST APIs
-- 3DX / CAD Documentation Environments
+### ✍️ Writing
+I served as Section Editor at *The Watchdog*, Bellevue College's student newspaper. Selected op-eds ([all articles](https://thewatchdogonline.com/author/eden-asipov)):
+- [Opinion: Are We on the Verge of a Nuclear Fusion Unlimited Energy Revolution?](https://thewatchdogonline.com/opinion-are-we-on-the-verge-of-a-nuclear-fusion-unlimited-energy-revolution-35236) · May 2023
+- [Opinion: "Time Machine": Could AI Enable Us to See the Future?](https://thewatchdogonline.com/opinion-time-machine-could-ai-enable-us-to-see-the-future-35319) · May 2023
+- [Opinion: Is a Career in High-Tech Still Worth It in the Age of AI?](https://thewatchdogonline.com/opinion-is-a-career-in-high-tech-still-worth-it-35165) · Apr 2023
+- [Opinion: Why You Should Start a Business During College](https://thewatchdogonline.com/opinion-why-you-should-start-a-business-during-college-34766) · Feb 2023
+- [Opinion: Why Balancing Study and Work Experience Matters](https://thewatchdogonline.com/opinion-why-gaining-work-experience-matters-during-college-34720) · Feb 2023
 
----
-
-## Portfolio Samples
-
-### API Documentation
-#### BizDriver.ai API Reference
-Professional API reference documentation for AI platform integrations and developer workflows.
-
-📄 View PDF:  
-🔗 <https://github.com/edenasipov/edenasipov/blob/main/BizDriverAI-API-Reference.pdf>
-
----
-
-## Additional Work
-
-A significant portion of my professional work was created within proprietary aerospace, satellite communications, manufacturing, and internal engineering environments and cannot be shared publicly.
-
-This includes internal production documentation, maintenance procedures, troubleshooting workflows, assembly instructions, process documentation, test procedures, and engineering support materials developed for organizations such as Amazon Project Kuiper, Virgin Galactic, and SpaceX.
-
-Public samples included here represent only a small portion of my overall technical writing experience.
-
----
-
-### User Documentation
-#### BizDriver.ai User Guide
-Comprehensive user-focused product documentation covering workflows, features, and operational guidance.
-
-📄 View PDF:  
-🔗 <https://github.com/edenasipov/edenasipov/blob/main/BizDriverAI-User-Guide.pdf>
-
----
-
-## Resume
-
-📄 Download Resume:  
-🔗 <https://github.com/edenasipov/edenasipov/blob/main/Eden%20Asipov%20-%20Technical%20Writer%202026.pdf>
-
----
-
-## Documentation Philosophy
-
-I believe strong technical documentation should:
-
-- Reduce friction for users and technicians
-- Improve operational efficiency
-- Support troubleshooting and maintenance workflows
-- Translate engineering complexity into actionable guidance
-- Balance technical depth with clarity and usability
-- Reflect real-world usage and production conditions
-
-My approach emphasizes collaboration with subject matter experts, hands-on validation when possible, and structured documentation that supports both technical and non-technical audiences.
-
----
-
-## Current Focus
-
-I am particularly interested in opportunities involving:
-
-- Satellite communications
-- Aerospace and defense systems
-- Advanced hardware platforms
-- Engineering-driven organizations
-- AI and emerging technologies
-- Production and test environments
-- Customer-facing technical documentation
-
----
-
-## Contact
-
-📧 Email  
-eden.b.asipov@gmail.com
-
-💼 LinkedIn  
-https://www.linkedin.com/in/eden-asipov/
-
-💻 GitHub  
-https://github.com/edenasipov
-
-📍 Seattle / Bellevue, Washington Area
-
----
-
-## Additional Notes
-
-This portfolio continues to evolve as additional documentation samples, engineering workflows, and structured writing examples are added.
-
-Thank you for visiting.
+### 🤝 Connect
+Reach me on [LinkedIn](https://linkedin.com/in/eden-asipov).
